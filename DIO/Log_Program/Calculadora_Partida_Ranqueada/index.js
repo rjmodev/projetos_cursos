@@ -66,4 +66,5 @@ function calcularNiveisDeJogadores(jogadores, nomeHeroi) {
 for (let i = 0; i < resultados.length; i++) {
     console.log(resultados[i]);
 }
-  
+
+
