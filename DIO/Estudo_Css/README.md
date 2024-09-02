@@ -1,3 +1,3 @@
 # Estudo_Css
 #
-#Trilha de estudo html na plataforma DIO
+#Trilha de estudo CSS na plataforma DIO
