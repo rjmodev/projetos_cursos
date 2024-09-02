@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Ultra&display=swap');
+
+
+
+#text
+strong {
+    background-color: aquamarine;
+    color:violet;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+#addcss
+h1 {
+    color:red;
+    font-family: 'Ultra', serif;
+}

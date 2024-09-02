@@ -1,0 +1,27 @@
+#body {
+    margin: 30px;
+}
+
+#addcss
+h1 {
+    display: flex;
+    background: black; width: 310px; height: 45px;
+    border-radius: 10px;
+    color:red;
+    padding-inline: 30px;
+    padding-top: 5px;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+#text p{
+   
+    color:violet;
+    font-family: 'Ultra', serif;
+    background-color: aquamarine;
+    border-radius: 20px; 
+    margin: 0px;
+    height: 40px;
+    padding-inline: 7px;
+    margin-left: 8px;
+}
+
