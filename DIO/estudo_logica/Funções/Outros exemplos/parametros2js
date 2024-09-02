@@ -1,0 +1,12 @@
+//Funções com parâmetros
+
+function soma(num1, num2){
+    
+    let somaDosNumeros = num1 + num2
+
+    console.log(somaDosNumeros)
+
+}
+
+soma(25 , 6)
+soma(15, 3)
