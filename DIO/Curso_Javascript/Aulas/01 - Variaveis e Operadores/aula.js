@@ -1,5 +1,5 @@
 
-let variavel = 10;
+let variavel = 20;
 
 console.log(variavel)
 
