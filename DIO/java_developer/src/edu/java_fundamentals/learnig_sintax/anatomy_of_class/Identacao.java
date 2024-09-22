@@ -1,4 +1,4 @@
-package java_fundamentals.learnig_sintax.anatomy_of_class;
+package edu.java_fundamentals.learnig_sintax.anatomy_of_class;
 
 public class Identacao {
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class Identacao {
 
     //Exemplo de um metodo com identacao sobre um sistema de boletim estudantil
 
-        int mediaFinalFisica = 6;
+    int mediaFinalFisica = 6;
         if (mediaFinalFisica < 6)
             System.out.println("REPROVADO EM FÍSICA");
         else if (mediaFinalFisica == 6)

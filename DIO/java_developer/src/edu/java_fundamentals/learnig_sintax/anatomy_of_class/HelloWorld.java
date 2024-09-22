@@ -1,4 +1,4 @@
-package java_fundamentals.learnig_sintax.anatomy_of_class;
+package edu.java_fundamentals.learnig_sintax.anatomy_of_class;
 
 //Sempre que criar a classe, deve ser com inicial UPPER e com o mesmo nome do arquivo.
 public class HelloWorld {

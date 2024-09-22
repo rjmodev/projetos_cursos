@@ -1,4 +1,4 @@
-package java_fundamentals.learnig_sintax.anatomy_of_class;
+package edu.java_fundamentals.learnig_sintax.anatomy_of_class;
 
 public class DeclararVariavel {
     public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class DeclararVariavel {
 
         //Recomendavel
         double salarioMedio = 1500.23;
-        String email = "aluno@escola.com";
+        String emailEscola = "aluno@escola.com";
         String [] emailsEscola = {"aluno@escola.com","professor@escola.com"};
         String primeiroNome = "JOSEPH";
 

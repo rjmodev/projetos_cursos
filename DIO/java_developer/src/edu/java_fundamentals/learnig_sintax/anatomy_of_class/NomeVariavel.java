@@ -1,4 +1,4 @@
-package java_fundamentals.learnig_sintax.anatomy_of_class;
+package edu.java_fundamentals.learnig_sintax.anatomy_of_class;
 
 public class NomeVariavel {
     public static void main(String[] args) {
