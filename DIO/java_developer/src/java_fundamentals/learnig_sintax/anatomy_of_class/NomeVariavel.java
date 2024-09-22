@@ -6,7 +6,9 @@ public class NomeVariavel {
         String BR = "Brasil";
         //Para garantir uma váriavel constante é utilizado uma palavra reservada: final
         final String CH = "China";
+        //Por definição, uma variável simples pode ter ser  valor alterado conforme necessite
         int ano = 2024;
+        ano = 2022;
         //Outros Exemplos:
         int TOTAL_ESTADOS_BRASILEIROS = 27;
         double PI = 3.14;
