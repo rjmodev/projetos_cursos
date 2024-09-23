@@ -18,5 +18,11 @@ public class TiposVariaveis {
         //O tipo float precisa terminar com F
         float PI = 3.14F;
         double salario = 3530.55;
+
+        //Java é fortemente "tipado"
+        //Mais exemplos sobre isso:
+        short numeroCurto = 1;
+        int numeroNormal = numeroCurto;
+        short numeroCurto2 = (short) numeroNormal;
     }
 }
