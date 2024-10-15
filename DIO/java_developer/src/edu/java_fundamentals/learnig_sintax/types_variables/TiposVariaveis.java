@@ -13,8 +13,10 @@ public class TiposVariaveis {
         byte alturaMontanha = 115;
         short anoFinalGraduacao = 2028;
         int cep = 3795000; //se começar com zero, talvez tenha que ser outro tipo
+
         //O tipo long precisa terminar com L
         long cpf = 98765432109L; // se começar com zero, talvez tenha que ser outro tipo
+
         //O tipo float precisa terminar com F
         float PI = 3.14F;
         double salario = 3530.55;
