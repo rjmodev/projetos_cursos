@@ -6,13 +6,13 @@ public class ExampleDocComent {
 
     /*
     *Multline
-     */
+    */
 
     /* Olá,
     *Eu sou um comentário
     * que posso ser mais detalhado
     * quando necessário
-     */
+    */
 
     // /** Para uma documentação mais detalhada
     /**

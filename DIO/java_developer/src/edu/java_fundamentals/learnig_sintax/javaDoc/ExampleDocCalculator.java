@@ -1,7 +1,7 @@
 package edu.java_fundamentals.learnig_sintax.javaDoc;
 
 /**
- * <h1>Calculadora</h1>
+ * Calculadora
  * A Calculadora realiza operações matemáticas entre números inteiros
  * <p>
  * <b>Note:</b> Leia atentamente a documentação desta classes

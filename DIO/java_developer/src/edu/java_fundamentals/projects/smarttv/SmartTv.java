@@ -21,9 +21,7 @@ public class SmartTv {
     public void on (){
         onOff = true;
     }
-    public void off (){
-        onOff = false;
-    }
+    public void off (){ onOff = false; }
 
     //Channel acima, abaixo ou definido
     public void changeChannel (int newChanel) {
