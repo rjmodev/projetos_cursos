@@ -3,10 +3,10 @@ package edu.java_fundamentals.learnig_sintax.anatomy_of_class;
 public class DeclararVariavel {
     public static void main(String[] args) {
         /*
-        Uma variável deve ser clara, sem abreviações ou definição sem sentido;
-        Uma variável é sempre no singular, exceto quando se referir a um array ou coleção.
-        Defina um idioma único para suas variáveis. Se você for declarar variáveis em inglês, defina todas em inglês.
-        Tipo NomeBemDefinido = Atribuição (opcional em alguns casos);
+        * Uma variável deve ser clara, sem abreviações ou definição sem sentido;
+        * Uma variável é sempre no singular, exceto quando se referir a um array ou coleção.
+        * Defina um idioma único para suas variáveis. Se você for declarar variáveis em inglês, defina todas em inglês.
+        * Tipo NomeBemDefinido = Atribuição (opcional em alguns casos);
         */
 
         //Não recomendável

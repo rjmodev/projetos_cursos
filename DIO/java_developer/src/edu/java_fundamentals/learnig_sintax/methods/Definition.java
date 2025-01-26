@@ -44,10 +44,11 @@ public class Definition {
         }
 
         public void gravarCliente (String name, String cpf, Integer telefone){
-            //este método tem a finalidade de gravar
-            //informações de um cliente, por que não criar
-            //um objeto cliente e passar como parâmetro ?
-            //veja abaixo
+            /*este método tem a finalidade de gravar
+              informações de um cliente, por que não criar
+              um objeto cliente e passar como parâmetro ?
+              veja abaixo
+            */
         }
 
         public void gravarCliente ( Cliente nomeCliente) {

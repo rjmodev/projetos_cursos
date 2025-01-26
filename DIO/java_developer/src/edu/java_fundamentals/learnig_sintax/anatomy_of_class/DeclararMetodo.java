@@ -8,12 +8,13 @@ public class DeclararMetodo {
 
         System.out.println(nomePacienteCompleto);
     }
-    /*
-    Os métodos deverão ser nomeados como verbos, através de uma mistura de letras
-    minúsculas e maiúsculas. Em princípio todas as letras que compõem o nome devem ser m
-    antidas em minúsculo, com exceção da primeira letra de cada palavra composta a partir
-    da segunda palavra.
-    */
+    /**
+    * Os métodos deverão ser nomeados como verbos, através de uma mistura de letras
+      minúsculas e maiúsculas. Em princípio todas as letras que compõem o nome devem ser mantidas 
+      em minúsculo, com exceção da primeira letra de cada palavra composta a partir
+      da segunda palavra.
+    **/
+
     //TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)
     public static String nomePaciente (String primeiroNome, String sobreNome) {
         return "O próximo paciente a ser atendido é " + primeiroNome.concat(" ").concat(sobreNome);
