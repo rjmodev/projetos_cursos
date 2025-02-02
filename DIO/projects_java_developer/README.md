@@ -1,1 +1,0 @@
-# Projetos referente a Trilha do Curso Java Developer
