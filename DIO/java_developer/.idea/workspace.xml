@@ -1,4 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da2aec7b-8977-49b7-a5b8-542623f477dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/concept_flowcontrol.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/anatomy_of_class/DeclararMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/anatomy_of_class/DeclararMetodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/anatomy_of_class/DeclararVariavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/anatomy_of_class/DeclararVariavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/anatomy_of_class/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/anatomy_of_class/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/anatomy_of_class/Identacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/anatomy_of_class/Identacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/anatomy_of_class/NomeVariavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/anatomy_of_class/NomeVariavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/anatomy_of_class/Organizacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/anatomy_of_class/Organizacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/anatomy_of_class/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/anatomy_of_class/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/javaDoc/ExampleDocCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/javaDoc/ExampleDocCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/javaDoc/ExampleDocComent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/javaDoc/ExampleDocComent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/javaDoc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/javaDoc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/methods/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/methods/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/methods/Definition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/methods/Definition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/methods/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/methods/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/operator/IncrementOrDecrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/IncrementOrDecrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/operator/LogicalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/LogicalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/operator/OperatorAritmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/OperatorAritmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/operator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/operator/Relational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/Relational.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/operator/Tenary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/Tenary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/operator/TypesOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/TypesOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/operator/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/UnaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/reserved_words/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/reserved_words/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/scope/ExampleScopeConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/scope/ExampleScopeConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/scope/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/scope/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/types_variables/ConstructVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/types_variables/ConstructVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/types_variables/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/types_variables/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/learnig_sintax/types_variables/TiposVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/types_variables/TiposVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/projects/smarttv/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/projects/smarttv/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/projects/smarttv/SmartTv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/projects/smarttv/SmartTv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java_fundamentals/projects/smarttv/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/projects/smarttv/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/projects_course/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/projects_course/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rjmodev2&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rjmodev/projetos_cursos.git&quot;,
+    &quot;accountId&quot;: &quot;21ebe415-c7c9-448d-8eaf-aa152662c4b4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2x8YtYZj488g3su5EIizEjpHSfl" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.CaixaEletronico.executor": "Run",
+    "Application.ConditionalSimple.executor": "Run",
+    "Application.PlanoOperadora.executor": "Run",
+    "Application.ResultadoEscolar.executor": "Run",
+    "Application.SistemaMedida.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/dev_reginaldo/Projetos GitHub/rjmodev/projetos_cursos/DIO/java_developer/src/me/dio/javadeveloper/edu/java_flowcontrol/conditionalstructures",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/conditionalstructures" />
+      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol" />
+      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/concept" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="me.dio.javadeveloper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.dio.javadeveloper.edu.java_flowcontrol.conditionalstructures.ternarycondition" />
+      <recent name="me.dio.javadeveloper.edu.java_flowcontrol.conditionalstructures.composedconditional" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da2aec7b-8977-49b7-a5b8-542623f477dd" name="Changes" comment="" />
+      <created>1747321382788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747321382788</updated>
+      <workItem from="1747321384313" duration="3206000" />
+      <workItem from="1747330098696" duration="4476000" />
+      <workItem from="1747349770072" duration="9666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
 </project>
