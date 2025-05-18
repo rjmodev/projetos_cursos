@@ -8,18 +8,20 @@ public class ExemploWhile {
      * logo, enquanto o valor dos doces não igualar a R$ 50,00 ele foi adicionando itens no carrinho.
      */
     public static void main(String[] args) {
+
         double mesada = 50.0;
 
-        while (mesada > 0){
+        while (mesada > 0) {
             Double valorDoce = valorAleatorio();
-            if(valorDoce > mesada){
+            if (valorDoce > mesada) {
                 valorDoce = mesada;
             }
             System.out.println("Doce do valor: " + valorDoce + " Adicionado ao carrinho.");
             mesada -= valorDoce;
         }
     }
-    private static double valorAleatorio(){
-        return ThreadLocalRandom.current().nextDouble(2,9);
+
+    private static double valorAleatorio() {
+        return ThreadLocalRandom.current().nextDouble(2, 9);
     }
 }

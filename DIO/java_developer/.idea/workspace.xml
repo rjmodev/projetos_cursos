@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da2aec7b-8977-49b7-a5b8-542623f477dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/exercises/Exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/exercises/Exercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/exercises/Exercise03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/IncrementOrDecrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operators/incrementdecrement/IncrementOrDecrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/LogicalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operators/LogicalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/OperatorAritmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operators/aritmetics/OperatorAritmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operators/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/Relational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operators/Relational.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/Tenary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operators/Tenary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/TypesOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operators/TypesOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operators/UnaryOperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +40,12 @@
     &quot;assignee&quot;: &quot;rjmodev2&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rjmodev/projetos_cursos.git",
-    "accountId": "baedcccb-dfb5-475b-839b-05f13dc4e16c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rjmodev/projetos_cursos.git&quot;,
+    &quot;accountId&quot;: &quot;baedcccb-dfb5-475b-839b-05f13dc4e16c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -47,19 +59,25 @@
     "Application.App.executor": "Run",
     "Application.CaixaEletronico.executor": "Run",
     "Application.ConditionalSimple.executor": "Run",
+    "Application.ExemploArray.executor": "Run",
     "Application.ExemploBreakContinue.executor": "Run",
     "Application.ExemploFor.executor": "Debug",
     "Application.ExemploForArray.executor": "Run",
     "Application.ExemploForEachArray.executor": "Run",
     "Application.ExemploWhile.executor": "Debug",
+    "Application.Exercise01.executor": "Run",
+    "Application.ExxemploWhile02.executor": "Run",
     "Application.PlanoOperadora.executor": "Run",
     "Application.ResultadoEscolar.executor": "Run",
     "Application.SistemaMedida.executor": "Run",
+    "Application.TabuadaCompletaMultiply.executor": "Run",
+    "Application.TabuadaMultiplica.executor": "Run",
+    "Application.TabuadaSoma.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/dev_reginaldo/Projetos GitHub/rjmodev/projetos_cursos/DIO/java_developer",
+    "last_opened_file_path": "/home/dev_reginaldo/Projetos GitHub/rjmodev/projetos_cursos/DIO/java_developer/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/looparray",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,15 +92,21 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture" />
-      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/conditionalstructures" />
-      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol" />
-      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/concept" />
+      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/looparray" />
+      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopdowhile/Exercises" />
+      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopfor/exercises" />
+      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operators/aritmetics" />
+      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_fundamentals/learnig_sintax/operator/incrementdecrement" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="me.dio.javadeveloper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.dio.javadeveloper.edu.java_flowcontrol.loopstrutucture.loopfor.exercises" />
+      <recent name="me.dio.javadeveloper.edu.java_flowcontrol.loopstrutucture.loopwhile.exercises" />
       <recent name="me.dio.javadeveloper.edu.java_flowcontrol.conditionalstructures.ternarycondition" />
       <recent name="me.dio.javadeveloper.edu.java_flowcontrol.conditionalstructures.composedconditional" />
     </key>
@@ -118,65 +142,25 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopfor/ExemploFor.java</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopfor/exercises/tabuada/TabuadaMultiplica.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java</url>
+          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopfor/exercises/tabuada/TabuadaMultiplica.java</url>
           <line>15</line>
-          <option name="timeStamp" value="13" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/me/dio/javadeveloper/edu/java_flowcontrol/loopstrutucture/loopwhile/ExemploWhile.java</url>
-          <line>21</line>
-          <properties class="me.dio.javadeveloper.edu.java_flowcontrol.loopstrutucture.loopwhile.ExemploWhile" method="valorAleatorio">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
