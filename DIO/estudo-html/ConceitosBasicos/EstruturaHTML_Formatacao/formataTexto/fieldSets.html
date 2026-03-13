@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        fieldset {
+            margin: 10px;
+            border-radius: 5px;
+            border-color: coral;
+        }
+    </style>
+    <title>Fieldset Example</title>
+</head>
+<body>
+    <!--
+    Fieldsets são elementos HTML utilizados para agrupar logicamente campos 
+    relacionados dentro de um formulário. Eles melhoram a organização visual 
+    e semântica do formulário, facilitando a compreensão do usuário sobre quais 
+    campos pertencem a um mesmo contexto. Normalmente, um <fieldset> é acompanhado 
+    de um elemento <legend>, que fornece um título descritivo para o grupo de campos. 
+    Isso é útil tanto para acessibilidade quanto para clareza na interface do usuário.
+    
+    Neste exemplo, os campos "Nome" e "Email" estão agrupados sob o contexto 
+    "Informações Pessoais", tornando o formulário mais organizado e acessível.
+    -->
+    <h1>Formulario de Registro</h1>
+    <form>
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name"><br><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+        </fieldset>
+        <br>
+        <fieldset>
+            <legend>Account Details</legend>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username"><br><br>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password">
+        </fieldset>
+        <br>
+        <input type="submit" value="Register">
+    </form>
+</body>
+</html>
